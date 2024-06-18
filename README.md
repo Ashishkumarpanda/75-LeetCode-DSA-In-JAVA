@@ -43,3 +43,30 @@ You can clone this repository to your local machine using the following command:
 
 ```bash
 git clone https://github.com/yourusername/DSA-Java.git
+
+Navigate to the directory of the problem you want to run and compile the Java file using the `javac` command:
+
+```bash
+javac ProblemName.java
+
+Then, run the compiled Java program using the java command:
+java ProblemName
+
+Make sure to replace ProblemName with the actual name of the Java file you want to execute.
+
+## Contribution
+
+Contributions are welcome! If you have solved additional DSA problems in Java or have improvements to the existing solutions, feel free to open a pull request. Please ensure your code follows the same structure and commenting style as the rest of the repository.
+
+## License
+
+This repository is licensed under the MIT License. See the LICENSE file for more details.
+
+## Contact
+
+If you have any questions, suggestions, or feedback, feel free to contact me at ashishkumarpanda257@gmail.com.
+
+Happy coding!
+
+
+
