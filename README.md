@@ -7,10 +7,10 @@ Welcome to the DSA Java repository! This repository contains all the Data Struct
 - [Introduction](#introduction)
 - [Structure](#structure)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Contribution](#contribution)
 - [License](#license)
 - [Contact](#contact)
+- [Usage](#usage)
 
 ## Introduction
 
@@ -37,6 +37,18 @@ Each directory contains Java files corresponding to individual problems. The fil
 
 To use the code in this repository, you need to have Java installed on your system. You can download and install Java from the [official website](https://www.oracle.com/java/technologies/javase-downloads.html).
 
+## Contribution
+
+Contributions are welcome! If you have solved additional DSA problems in Java or have improvements to the existing solutions, feel free to open a pull request. Please ensure your code follows the same structure and commenting style as the rest of the repository.
+
+## License
+
+This repository is licensed under the MIT License. See the LICENSE file for more details.
+
+## Contact
+
+If you have any questions, suggestions, or feedback, feel free to contact me at ashishkumarpanda257@gmail.com.
+
 ## Usage
 
 You can clone this repository to your local machine using the following command:
@@ -54,19 +66,6 @@ java ProblemName
 
 Make sure to replace ProblemName with the actual name of the Java file you want to execute.
 
-## Contribution
-
-Contributions are welcome! If you have solved additional DSA problems in Java or have improvements to the existing solutions, feel free to open a pull request. Please ensure your code follows the same structure and commenting style as the rest of the repository.
-
-## License
-
-This repository is licensed under the MIT License. See the LICENSE file for more details.
-
-## Contact
-
-If you have any questions, suggestions, or feedback, feel free to contact me at ashishkumarpanda257@gmail.com.
-
-Happy coding!
 
 
 
